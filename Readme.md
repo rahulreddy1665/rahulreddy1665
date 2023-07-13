@@ -29,7 +29,7 @@ currently working as a mobile application developer
 
 
 ## My GitHub stats
-![Profile views](https://gpvc.arturio.dev/AbhishekBonageri-75) 
+![Profile views](https://komarev.com/ghpvc/?username=rahulreddy1665&label=PROFILE+VIEWS)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulreddy1665&show_icons=true&count_private=true) 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekBonageri-75&layout=compact&theme=dracula&custom_title=Linguagens%20mais%20utilizadas)](https://github.com/anuraghazra/github-readme-stats) -->
