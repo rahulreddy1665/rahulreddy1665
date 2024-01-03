@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Rahul Reddy
+# Hi there 👋, I'm Rahul Reddy T V
 [![General badge](https://img.shields.io/badge/🔗-Portfolio-<COLOR>.svg)](https://rahulreddy10.netlify.app//) [![Gmail Badge](https://img.shields.io/badge/-rahulreddy1665@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rahulreddy1665@gmail.com)](mailto:rahulreddy1665@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-rahul_reddy-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-reddy-t-v/)](https://www.linkedin.com/in/rahul-reddy-t-v/) 
  [![Github Badge](https://img.shields.io/badge/-rahulreddy1665-grey?style=flat&logo=github&logoColor=white&link=https://github.com//AbhishekBonageri-75)](https://github.com/rahulreddy1665/)
@@ -19,6 +19,7 @@ currently working as a mobile application developer
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typeScript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-1AA7EC?style=for-the-badge&logo=flutter&logoColor=white) 
